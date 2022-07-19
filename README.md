@@ -7,12 +7,13 @@ Portfolio for all kinds of software engineering projects.
 
 - ### Micro Projects
   - __Python__
-    - [Outfits Suggester](): Outfits Suggester is a simple app, that suggests outfits based on age, gender and dress code and also display some message based on the weather condition using Fast API.
+    - [Outfits Suggester](https://github.com/lafirm/outfits-suggester): Outfits Suggester is a simple app, that suggests outfits based on age, gender and dress code and also display some message based on the weather condition using Fast API.
+    - [Bitcoin Mining](https://github.com/lafirm/bitcoin-mining): A fun project to predict the new hash code of a block in blockchain using simple python program.
 
     _Tools: Tkinter, Requests, and PIL_
   
   - __Java__
-    - [Payslip Generator](): Payslip generator is a simple command line app, that generates Payslip for Admin and Factory employee based on user inputs like employee name, department name etc.
+    - [Payslip Generator](https://github.com/lafirm/payslip-generator): Payslip generator is a simple command line app, that generates Payslip for Admin and Factory employee based on user inputs like employee name, department name etc.
 
     _Tools: Java_
   
