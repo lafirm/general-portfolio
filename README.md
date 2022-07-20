@@ -13,7 +13,7 @@ Portfolio for all kinds of software engineering projects.
     _Tools: Tkinter, Requests, and PIL_
   
   - __Java__
-    - [Payslip Generator](https://github.com/lafirm/payslip-generator): Payslip generator is a simple command line app, that generates Payslip for Admin and Factory employee based on user inputs like employee name, department name etc.
+    - [Payslip Generator](https://github.com/lafirm/payslip-generator): Payslip generator is a simple console based app, that generates Payslip for Admin and Factory employee based on user inputs like employee name, department name etc.
 
     _Tools: Java_
   
