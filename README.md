@@ -20,4 +20,4 @@ Portfolio for all kinds of software engineering projects.
   
 I also dabble in Data Science. You can find my portfolio for that [here](https://github.com/lafirm/data-science-portfolio).
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at lafirmm@yahoo.com.
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, message me [@lafirm](https://www.linkedin.com/in/lafir).
